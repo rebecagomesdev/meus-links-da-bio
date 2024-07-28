@@ -68,6 +68,17 @@ body * {
   margin-top: 8px;
 }
 
+#sobremim p.conteudo {
+  text-align: justify;
+  padding-bottom: 8px;
+}
+
+#sobremim h3 {
+  text-align: center;
+  padding-top: 28px;
+  padding-bottom: 8px;
+}
+
 /*switch*/
 #switch {
   position: relative;
