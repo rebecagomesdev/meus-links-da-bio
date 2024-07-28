@@ -42,7 +42,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: auto;
   padding: 0 24px;
   /* margin é para alinhamento da estrutura na página, no margin auto ele fica centralizado (esquerda-direita) mas existe uma regra css que não se aplica em cima-baixo. funciona tipo reloginho; dá pra ir colocando valores/propriedades do lado do outro.
